@@ -5,3 +5,4 @@ tags:
 languages:
   - ruby
 resources: 0
+parent_template: git@github.com:learn-co-curriculum/nested-hash-iteration-code-along.git
